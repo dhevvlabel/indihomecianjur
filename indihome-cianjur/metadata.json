@@ -1,0 +1,6 @@
+{
+  "name": "IndiHome Cianjur",
+  "description": "Professional bio link website for IndiHome Cianjur ISP agent by PT Global Bahana Karya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
